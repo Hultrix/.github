@@ -5,10 +5,11 @@ Hultrix is a collaborative initiative focused on developing innovative open-sour
 We strive to push the boundaries of technology by creating powerful, efficient, and reliable software. Our mission is to empower developers and users alike, providing them with tools and frameworks that facilitate creative and technical endeavors.
 
 #### Our Projects
-Hultrix projects consist of three core components:
+Hultrix projects consist of four core components:
 
 - SDK: A system development toolkit supporting both C++ and Python, designed to empower developers in creating robust applications.
 - OS: A versatile Linux distribution tailored for x86, ARM, and RISC devices, built from scratch to deliver optimal performance and customization.
 - SERVER: A web server developed using Python and Django, engineered for reliability and scalability.
+- DOCS: A comprehensive collection of learning materials, documentation, sample code, and project examples.
 
 These components equip developers to launch new projects, products, services, or even entire organizations, catering to a range of objectives from non-profit initiatives to commercial enterprises.
