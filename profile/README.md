@@ -7,9 +7,9 @@ We strive to push the boundaries of technology by creating powerful, efficient, 
 #### Our Projects
 Hultrix projects consist of four core components:
 
-- SDK: A system development toolkit supporting both C++ and Python, designed to empower developers in creating robust applications.
-- OS: A versatile Linux distribution tailored for x86, ARM, and RISC devices, built from scratch to deliver optimal performance and customization.
-- SERVER: A web server developed using Python and Django, engineered for reliability and scalability.
-- DOCS: A comprehensive collection of learning materials, documentation, sample code, and project examples.
+- **SDK:** A system development toolkit supporting both C++ and Python, designed to empower developers in creating robust applications.
+- **OS:** A versatile Linux distribution tailored for x86, ARM, and RISC devices, built from scratch to deliver optimal performance and customization.
+- **SERVER:** A web server developed using Python and Django, engineered for reliability and scalability.
+- **DOCS:** A comprehensive collection of learning materials, documentation, sample code, and project examples.
 
 These components equip developers to launch new projects, products, services, or even entire organizations, catering to a range of objectives from non-profit initiatives to commercial enterprises.
