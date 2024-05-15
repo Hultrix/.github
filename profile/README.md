@@ -10,6 +10,6 @@ Hultrix projects consist of four core components:
 - **DOCS:** A comprehensive collection of learning materials, documentation, sample code, and project examples.
 - **OS:** A versatile Linux distribution tailored for x86, ARM, and RISC devices, built from scratch to deliver optimal performance and customization.
 - **SDK:** A system development toolkit supporting both C++ and C#, designed to empower developers in creating robust applications.
-- **SERVERS:** A application servers developed using .Net, engineered for reliability and scalability.
+- **SERVERS:** A application servers developed using .NET, engineered for reliability and scalability.
 
 These components equip developers to launch new projects, products, services, or even entire organizations, catering to a range of objectives from non-profit initiatives to commercial enterprises.
