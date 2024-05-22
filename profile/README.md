@@ -13,8 +13,10 @@ Hultrix projects consist of four core components:
 - **SERVERS:** A application servers developed using Django, engineered for reliability and scalability.
 
 #### Places
-DOCS | https://github.com/Hultrix/DOCS/wiki
-Dicussions | https://github.com/Hultrix/.github/discussions
-Projects | https://github.com/orgs/Hultrix/repositories
+Docs:  https://github.com/Hultrix/DOCS/wiki
+
+Dicussions: https://github.com/Hultrix/.github/discussions
+
+Projects: https://github.com/orgs/Hultrix/repositories
 
 These components equip developers to launch new projects, products, services, or even entire organizations, catering to a range of objectives from non-profit initiatives to commercial enterprises.
