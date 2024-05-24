@@ -8,7 +8,7 @@ We strive to push the boundaries of technology by creating powerful, efficient, 
 Hultrix projects consist of four core components:
 
 - **Discussions:**  https://github.com/Hultrix/.github/discussions
-- **DOCS:** A comprehensive collection of learning materials, documentation, sample code, and project examples. https://github.com/Hultrix/DOCS/wiki
+- **DOCS:** A comprehensive collection of learning materials, documentation, https://github.com/Hultrix/DOCS/wiki
 - **OS:** A versatile Linux distribution tailored for x86, ARM, and RISC devices, built from scratch to deliver optimal performance and customization.
 - **SDK:** A system development toolkit supporting both C and C++, designed to empower developers in creating robust applications.
 - **SERVERS:** A application servers developed using Django, engineered for reliability and scalability.
